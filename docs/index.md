@@ -45,7 +45,7 @@ Together, we'll work through an interactive **Jupyter Notebook** and explore rea
 If you want to follow along with the technical segment, you will need to have access to ArcGIS Pro. Instructions 
 for installing the software (Windows only) on your computer are here: <a href="https://mdlutoronto.github.io/arcgis-pro-install-license/"
 target="_blank">https://mdlutoronto.github.io/arcgis-pro-install-license/</a>. Or, see 
-<a href="https://mdl.library.utoronto.ca/technology/computers-with-gis-software" target="_blank">https://mdl.library.utoronto.ca/technology/computers-with-gis-software</a> for a list of campus computer labs where Pro can be accessed.
+<a href="https://faq.library.utoronto.ca/faq/where-can-i-find-computers-gis-software?_gl=1*2geh3u*_ga*MjE0MTczMTE2LjE3OTEzODI2MDE.*_ga_N97V7GPQQJ*czE3OTEzODI2MDEkbzEkZzEkdDE3OTEzOTcyMjkkajUzJGwwJGgw" target="_blank">https://faq.library.utoronto.ca/faq/where-can-i-find-computers-gis-software?_gl=1*2geh3u*_ga*MjE0MTczMTE2LjE3OTEzODI2MDE.*_ga_N97V7GPQQJ*czE3OTEzODI2MDEkbzEkZzEkdDE3OTEzOTcyMjkkajUzJGwwJGgw</a> for a list of campus computer labs where Pro can be accessed.
 
 The sample data used in this workshop can be downloaded from
 <a herf="http://maps.library.utoronto.ca/workshops/ArcGIS_Python/ArcGIS_Python.zip"
